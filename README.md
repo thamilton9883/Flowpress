@@ -1,4 +1,4 @@
-# FlowPress – Email Automations for WordPress
+# FlowMail Campaigns – Email Campaigns for WordPress
 
 FlowPress is a simple email automation plugin for WordPress. Create subscriber emails, manage campaigns, queue messages, and upgrade to WooCommerce automations when you need store-based workflows.
 
